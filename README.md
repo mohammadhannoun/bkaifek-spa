@@ -17,5 +17,5 @@ Frontend for **Bkaifek**, a mentorship booking platform for fresh graduates in t
 
 ## Getting Started
 
-`npm install`
-`npm run dev`
+- `npm install`
+- `npm run dev`
